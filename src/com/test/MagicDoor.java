@@ -15,7 +15,7 @@ public class MagicDoor {
         Hero Healer = new Hero(200,0,"MassHeal");
         heroes [3]=Healer;
         return heroes;
-        
+
     }
 
 }
